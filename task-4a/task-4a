@@ -1,0 +1,10 @@
+Task-4A:
+
+WAF Tasks: 
+Attach WAF Web ACL to ALB
+Add rule to block traffic from a specific IP (laptop ip)
+Test application access before / after WAF rules
+
+1) I created Load balancer with target Gropu and i given one instance as a target in the target group
+
+    
