@@ -8,3 +8,4 @@ Test application access before / after WAF rules
 1) I created Load balancer with target Gropu and i given one instance as a target in the target group
 
     
+    
